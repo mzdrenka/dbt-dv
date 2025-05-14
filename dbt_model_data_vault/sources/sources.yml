@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: seeds
+    database: DV_TEST_DB
+    schema: SEEDS
+    tables:
+      - name: raw_customers
